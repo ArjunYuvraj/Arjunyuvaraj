@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a data science enthusiast. I have a passion for solving data-related problems.
+I'm a data enthusiast. I have a passion for solving data-related problems.
 
 ## What I’m Working On
 
