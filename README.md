@@ -1,6 +1,6 @@
 # Hello! I'm Arjun 👋
 
-## About ME
+## About Me
 
 I work across the data lifecycle — from cleaning and transforming raw data to analyzing patterns and building dashboards that turn data into actionable insights.
 
