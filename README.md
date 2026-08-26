@@ -6,7 +6,7 @@ I work across the data lifecycle — from cleaning and transforming raw data to 
 
 Currently, I’m moving deeper into **Data Engineering**, focusing on building reliable ETL pipelines, automated workflows, structured data models, and scalable data systems.
 
-## What I'm Working On
+## What I'm Working 
 
 * **Data Analytics:** Analyzing datasets to identify patterns, trends, and meaningful business insights.
 * **Data Engineering:** Building ETL pipelines, data workflows, and structured data systems using Python and SQL.
